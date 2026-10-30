@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/funaji-no-yukiki",
  "yomi": "ふなじのゆきき",
  "category": "紀行",
- "description": null,
+ "description": {
+  "kind": "紀行",
+  "era": "文化6年（1809）1月以後",
+  "author": "熊谷直好（1782〜1862）",
+  "desc": "文化6年1月17日に船出して都に上った旅の日記に始まり、四つの部からなる。末では母を見舞って再会を喜ぶ歌を詠む。"
+ },
  "editions": [
   {
    "pid": "993388",
